@@ -1,0 +1,11 @@
+E:\Vbasic\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.exe.config
+E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.vbprojResolveAssemblyReference.cache
+E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.Resources.resources
+E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.vbproj.GenerateResource.Cache
+E:\Vbasic\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.exe
+E:\Vbasic\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.pdb
+E:\Vbasic\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.xml
+E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.exe
+E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.xml
+E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.pdb
+E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.Form1.resources
