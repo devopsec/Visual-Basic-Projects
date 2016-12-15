@@ -1,0 +1,15 @@
+C:\Users\root\AppData\Local\Temporary Projects\RestarauntPicker\bin\Debug\RestarauntPicker.exe.config
+C:\Users\root\Documents\Visual Studio 2013\Projects\RestarauntPicker\RestarauntPicker\bin\Debug\RestarauntPicker.exe.config
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\bin\Debug\RestarauntPicker.exe.config
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\obj\Debug\RestarauntPicker.vbprojResolveAssemblyReference.cache
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\obj\Debug\RestarauntPicker.ChosenRestarauntForm.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\obj\Debug\RestarauntPicker.RestarauntPickerForm.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\obj\Debug\RestarauntPicker.StartForm.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\obj\Debug\RestarauntPicker.Resources.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\obj\Debug\RestarauntPicker.vbproj.GenerateResource.Cache
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\bin\Debug\RestarauntPicker.exe
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\bin\Debug\RestarauntPicker.pdb
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\bin\Debug\RestarauntPicker.xml
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\obj\Debug\RestarauntPicker.exe
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\obj\Debug\RestarauntPicker.xml
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\RestarauntPicker\RestarauntPicker\obj\Debug\RestarauntPicker.pdb

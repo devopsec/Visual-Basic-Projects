@@ -9,3 +9,14 @@ E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.
 E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.xml
 E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.pdb
 E:\Vbasic\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.Form1.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.exe.config
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.exe
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.xml
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.pdb
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.exe
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.pdb
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.xml
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.Form1.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.Resources.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.vbproj.GenerateResource.Cache

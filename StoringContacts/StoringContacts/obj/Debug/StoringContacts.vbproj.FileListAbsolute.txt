@@ -1,0 +1,16 @@
+C:\Users\root\AppData\Local\Temporary Projects\StoringContacts\bin\Debug\StoringContacts.exe.config
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\bin\Debug\StoringContacts.exe.config
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.vbprojResolveAssemblyReference.cache
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.AddForm.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.RemoveForm.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.RetrieveForm.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.StartForm.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.Resources.resources
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.vbproj.GenerateResource.Cache
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.xml
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\bin\Debug\StoringContacts.exe
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\bin\Debug\StoringContacts.pdb
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\bin\Debug\StoringContacts.xml
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.exe
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.pdb
+C:\Users\root\Documents\GitHub\Visual-Basic-Projects\StoringContacts\StoringContacts\obj\Debug\StoringContacts.ContactList.resources
